@@ -37,6 +37,7 @@ git clone git@github.com:ngacn/AudioPlayer.git warpten
 注意项目名需要是wrapten， 而不是AudioPlayer  
  
 目录结构如下：  
+```
 ycs@linux-afno:~/go> tree .  
 <html>
 .  
@@ -52,6 +53,7 @@ ycs@linux-afno:~/go> tree .
 &nbsp;&nbsp;└── warpten  
 &nbsp;&nbsp;└── warpten.go  
 <html>
+```
 6.编译
 ```  
 go install warpten/warpten  
